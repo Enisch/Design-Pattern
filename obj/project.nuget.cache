@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1rEqoqE71Z4Uegl7DQNXnm0URh/p5N+nLotQr5zvDrd1BnrS1HixPbzpsBrDOBIJDy91KVBkhOwyhOu4NjPGcA==",
+  "dgSpecHash": "W62tJZT6/XmG47xNyj827hVRjPehdISuLZoDglKK9SAavNMOr2lxS4EQgiPsL7Zq+l6dh9Id4Cr+9lfK4G55kA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\55119\\Downloads\\Vscode projetos\\DotNetVSCode\\FlyWeight\\FlyWeight.csproj",
+  "projectFilePath": "C:\\Users\\55119\\Videos\\Design Pattern\\FlyWeight_Teste\\FlyWeight.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

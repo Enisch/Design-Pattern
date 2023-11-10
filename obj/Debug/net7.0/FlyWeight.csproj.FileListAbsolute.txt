@@ -12,3 +12,17 @@ C:\Users\55119\Downloads\Vscode projetos\DotNetVSCode\FlyWeight\obj\Debug\net7.0
 C:\Users\55119\Downloads\Vscode projetos\DotNetVSCode\FlyWeight\obj\Debug\net7.0\FlyWeight.pdb
 C:\Users\55119\Downloads\Vscode projetos\DotNetVSCode\FlyWeight\obj\Debug\net7.0\FlyWeight.genruntimeconfig.cache
 C:\Users\55119\Downloads\Vscode projetos\DotNetVSCode\FlyWeight\obj\Debug\net7.0\ref\FlyWeight.dll
+C:\Users\55119\Videos\Design Pattern\FlyWeight_Teste\bin\Debug\net7.0\FlyWeight.exe
+C:\Users\55119\Videos\Design Pattern\FlyWeight_Teste\bin\Debug\net7.0\FlyWeight.deps.json
+C:\Users\55119\Videos\Design Pattern\FlyWeight_Teste\bin\Debug\net7.0\FlyWeight.runtimeconfig.json
+C:\Users\55119\Videos\Design Pattern\FlyWeight_Teste\bin\Debug\net7.0\FlyWeight.dll
+C:\Users\55119\Videos\Design Pattern\FlyWeight_Teste\bin\Debug\net7.0\FlyWeight.pdb
+C:\Users\55119\Videos\Design Pattern\FlyWeight_Teste\obj\Debug\net7.0\FlyWeight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55119\Videos\Design Pattern\FlyWeight_Teste\obj\Debug\net7.0\FlyWeight.AssemblyInfoInputs.cache
+C:\Users\55119\Videos\Design Pattern\FlyWeight_Teste\obj\Debug\net7.0\FlyWeight.AssemblyInfo.cs
+C:\Users\55119\Videos\Design Pattern\FlyWeight_Teste\obj\Debug\net7.0\FlyWeight.csproj.CoreCompileInputs.cache
+C:\Users\55119\Videos\Design Pattern\FlyWeight_Teste\obj\Debug\net7.0\FlyWeight.dll
+C:\Users\55119\Videos\Design Pattern\FlyWeight_Teste\obj\Debug\net7.0\refint\FlyWeight.dll
+C:\Users\55119\Videos\Design Pattern\FlyWeight_Teste\obj\Debug\net7.0\FlyWeight.pdb
+C:\Users\55119\Videos\Design Pattern\FlyWeight_Teste\obj\Debug\net7.0\FlyWeight.genruntimeconfig.cache
+C:\Users\55119\Videos\Design Pattern\FlyWeight_Teste\obj\Debug\net7.0\ref\FlyWeight.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\55119\\Downloads\\Vscode projetos\\DotNetVSCode\\FlyWeight\\FlyWeight.csproj": {}
+    "C:\\Users\\55119\\Videos\\Design Pattern\\FlyWeight_Teste\\FlyWeight.csproj": {}
   },
   "projects": {
-    "C:\\Users\\55119\\Downloads\\Vscode projetos\\DotNetVSCode\\FlyWeight\\FlyWeight.csproj": {
+    "C:\\Users\\55119\\Videos\\Design Pattern\\FlyWeight_Teste\\FlyWeight.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\55119\\Downloads\\Vscode projetos\\DotNetVSCode\\FlyWeight\\FlyWeight.csproj",
+        "projectUniqueName": "C:\\Users\\55119\\Videos\\Design Pattern\\FlyWeight_Teste\\FlyWeight.csproj",
         "projectName": "FlyWeight",
-        "projectPath": "C:\\Users\\55119\\Downloads\\Vscode projetos\\DotNetVSCode\\FlyWeight\\FlyWeight.csproj",
+        "projectPath": "C:\\Users\\55119\\Videos\\Design Pattern\\FlyWeight_Teste\\FlyWeight.csproj",
         "packagesPath": "C:\\Users\\55119\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\55119\\Downloads\\Vscode projetos\\DotNetVSCode\\FlyWeight\\obj\\",
+        "outputPath": "C:\\Users\\55119\\Videos\\Design Pattern\\FlyWeight_Teste\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\55119\\AppData\\Roaming\\NuGet\\NuGet.Config"

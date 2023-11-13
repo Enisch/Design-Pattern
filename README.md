@@ -1,4 +1,5 @@
 # Design-Pattern
-Teste usando o Git bash
-Simulação dos personagens Koopa do SuperMario.
+Testes usando o Git bash.
+FlyWeight simula os personagens Koopa do SuperMario.
+Abstract Method simula civilizações do Starcraft.
 
